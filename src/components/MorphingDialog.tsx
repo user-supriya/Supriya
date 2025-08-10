@@ -3,7 +3,7 @@
 import React, { useState, useRef, useEffect, useMemo } from 'react';
 import { motion, AnimatePresence, MotionConfig, type Transition, type Variant } from 'framer-motion';
 import { createPortal } from 'react-dom';
-import { XIcon, Github, Linkedin, Mail, ExternalLink, Heart, Star, Code, Palette, Coffee } from 'lucide-react';
+import { XIcon} from 'lucide-react';
 
 function cn(...inputs: any[]) {
   return inputs.filter(Boolean).join(' ');
