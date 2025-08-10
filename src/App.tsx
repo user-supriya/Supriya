@@ -158,7 +158,7 @@ const App = () => {
             transition={{ duration: 0.8, delay: 0.8 }}
             className="flex flex-col sm:flex-row gap-4 justify-center items-center"
           >
-           <a href="/Supriya.pdf" download>
+           <a href="/Supriya.pdf" className="test-white" download>
   <motion.button
     whileHover={{ scale: 1.05 }}
     whileTap={{ scale: 0.95 }}
