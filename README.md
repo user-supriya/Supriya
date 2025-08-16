@@ -47,6 +47,9 @@ npm install
 npm run dev
 ```
 
+---
+
+
 ### 🚢 Deployment
 This project can be easily deployed to Vercel or Netlify with a few clicks.
 Just make sure the build command is:
@@ -60,6 +63,7 @@ and output folder is:
 dist
 ```
 ---
+
 
 ### 📌 Customization
 You can customize:
