@@ -59,7 +59,7 @@ and output folder is:
 ```nginx
 dist
 ```
-📌 Customization
+### 📌 Customization
 You can customize:
 
 src/data/projects.js → to add your own projects
