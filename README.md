@@ -85,8 +85,7 @@ Open a Pull Request
 
 ## 🙌 Authors & Maintainers
 
-Supriya Saloni 
-Sanat Shikhar Sinha
+Supriya Saloni & Sanat Shikhar Sinha
 
 Open for collaborators — feel free to contribute!
 
