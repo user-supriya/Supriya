@@ -102,15 +102,4 @@ This project is open source and available under the MIT License.
 
 If you like this project, give it a ⭐ on GitHub, and feel free to share your ideas to make it even better!
 
----
 
-## ⚡ Want me to generate something next?
-
-If you want, I can also:
-
-✅ Create a Project Description section for GitHub
-✅ Generate a Landing Page UI (React + Tailwind)
-✅ Add a PocketBase backend template
-✅ Design a Logo + Banner for BookSwap
-
-Just tell me what to generate next 🚀
