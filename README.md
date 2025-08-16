@@ -47,7 +47,7 @@ npm install
 npm run dev
 ```
 
-🚢 Deployment
+### 🚢 Deployment
 This project can be easily deployed to Vercel or Netlify with a few clicks.
 Just make sure the build command is:
 
@@ -70,11 +70,11 @@ Update resume.pdf in the root to your own CV
 
 Change social links in Footer component
 
-🙋 About Me
+### 🙋 About Me
 This portfolio was developed to build my personal brand as a Full Stack Developer passionate about building web applications using React, Node, MongoDB, etc.
 
-📄 License
+### 📄 License
 This project is open source and free to use under the MIT License.
 
-🌟 Show Your Support
+### 🌟 Show Your Support
 If you like this project, give it a ⭐ on GitHub, and feel free to share your ideas to make it even better!
