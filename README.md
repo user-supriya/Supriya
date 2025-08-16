@@ -37,7 +37,7 @@ BookSwap is a community-driven platform that allows book lovers to borrow, excha
 - Node.js & npm installed
 - Git
 
-### Installation
+## Installation
 
 ```
 git clone https://github.com/your-username/bookswap.git
@@ -46,7 +46,7 @@ npm install
 npm start
 ```
 
-### 🛠 Future Improvements
+## 🛠 Future Improvements
 
 ✅ Rating & Reviews on books
 
@@ -60,7 +60,7 @@ npm start
 
 ---
 
-### 📌 Contribution Guidelines
+## 📌 Contribution Guidelines
 
 Fork the repository
 
@@ -83,27 +83,28 @@ Open a Pull Request
 
 ---
 
-### 🙌 Authors & Maintainers
+## 🙌 Authors & Maintainers
 
-Supriya Saloni and Sanat Shikhar Sinha
+Supriya Saloni 
+Sanat Shikhar Sinha
 
 Open for collaborators — feel free to contribute!
 
 ---
 
-### 📄 License
+## 📄 License
 
 This project is open source and available under the MIT License.
 
 ---
 
-### ❤️ Support
+## ❤️ Support
 
 If you like this project, give it a ⭐ on GitHub, and feel free to share your ideas to make it even better!
 
 ---
 
-### ⚡ Want me to generate something next?
+## ⚡ Want me to generate something next?
 
 If you want, I can also:
 
