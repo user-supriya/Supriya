@@ -52,9 +52,9 @@ npm start
 
 ✅ Chat between borrower and owner
 
-✅ Email / SMS notification for requests
+✅ Email / SMS Notifications for requests
 
-✅ Admin dashboard for managing reports
+✅ Admin Dashboard for managing reports
 
 ✅ Mobile App version using React Native
 
@@ -62,20 +62,29 @@ npm start
 
 Fork the repository
 
-Create a new branch: git checkout -b feature/your-feature
+Create a new branch:
 
-Commit your changes: git commit -m "Add feature"
+git checkout -b feature/your-feature
 
-Push to the branch: git push origin feature/your-feature
+
+Commit your changes:
+
+git commit -m "Add feature"
+
+
+Push to the branch:
+
+git push origin feature/your-feature
+
 
 Open a Pull Request
 
 🙌 Authors & Maintainers
 
-Supriya Saloni and Sanat Shikhar Sinha
+Supriya Saloni
+Sanat Shikhar Sinha
 
-Open for collaborators 
-
+Open for collaborators — feel free to contribute!
 
 📄 License
 
@@ -83,16 +92,15 @@ This project is open source and available under the MIT License.
 
 ❤️ Support
 
-If you like this project, give it a ⭐ on GitHub, and feel free to share your ideas to make it better!
+If you like this project, give it a ⭐ on GitHub, and feel free to share your ideas to make it even better!
 
-
----
+⚡ Want me to generate something next?
 
 If you want, I can also:
 
-- Create a **project description section for GitHub**
-- Generate a **landing page UI in React + Tailwind**
-- Add a **PocketBase backend template**
-- Create a **logo + banner** for BookSwap
+✅ Create a Project Description section for GitHub
+✅ Generate a Landing Page UI (React + Tailwind)
+✅ Add a PocketBase backend template
+✅ Design a Logo + Banner for BookSwap
 
 Just tell me what to generate next 🚀
