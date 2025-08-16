@@ -1,69 +1,98 @@
-# React + TypeScript + Vite
+# BookSwap - A Book Borrowing, Exchange & Selling Web App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+BookSwap is a community-driven platform that allows book lovers to borrow, exchange, or sell books without spending a fortune. The main idea is to help readers access more books by connecting them directly with other readers.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🌟 Features
 
-## Expanding the ESLint configuration
+- 📚 Browse available books uploaded by users
+- 🔄 Borrow or exchange books with fellow readers
+- 💸 Sell or purchase pre-owned books at affordable prices
+- 🔍 Search and filter books by title, author, genre, or availability
+- 📦 Track your borrowed, exchanged, and sold books
+- 🔐 User authentication (Login / Signup)
+- ⚙️ User dashboard to manage posts and requests
+- 📨 Request/Approval system for borrowing or exchange
+- 💬 (Future) Chat/Messaging between users
 
-If you are developing a production application, we recommend updating the configuration to enable type-aware lint rules:
+---
 
-```js
-export default tseslint.config([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
+## ⚙️ Tech Stack
 
-      // Remove tseslint.configs.recommended and replace with this
-      ...tseslint.configs.recommendedTypeChecked,
-      // Alternatively, use this for stricter rules
-      ...tseslint.configs.strictTypeChecked,
-      // Optionally, add this for stylistic rules
-      ...tseslint.configs.stylisticTypeChecked,
+- **Frontend**: React.js, Tailwind CSS
+- **State Management**: React Context / Redux (optional)
+- **Backend**: (To be added – Node.js / Express / Firebase / PocketBase etc.)
+- **Database**: (MongoDB or PostgreSQL or Firebase Realtime DB)
+- **Authentication**: JWT / Firebase Auth
 
-      // Other configs...
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
+
+
+---
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+- Node.js & npm installed
+- Git
+
+### Installation
+
+```
+git clone https://github.com/your-username/bookswap.git
+cd bookswap
+npm install
+npm start
 ```
 
-You can also install [eslint-plugin-react-x](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-x) and [eslint-plugin-react-dom](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-dom) for React-specific lint rules:
+🛠 Future Improvements
 
-```js
-// eslint.config.js
-import reactX from 'eslint-plugin-react-x'
-import reactDom from 'eslint-plugin-react-dom'
+✅ Rating & Reviews on books
 
-export default tseslint.config([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
-      // Enable lint rules for React
-      reactX.configs['recommended-typescript'],
-      // Enable lint rules for React DOM
-      reactDom.configs.recommended,
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
-```
+✅ Chat between borrower and owner
+
+✅ Email / SMS notification for requests
+
+✅ Admin dashboard for managing reports
+
+✅ Mobile App version using React Native
+
+📌 Contribution Guidelines
+
+Fork the repository
+
+Create a new branch: git checkout -b feature/your-feature
+
+Commit your changes: git commit -m "Add feature"
+
+Push to the branch: git push origin feature/your-feature
+
+Open a Pull Request
+
+🙌 Authors & Maintainers
+
+Supriya Saloni and Sanat Shikhar Sinha
+
+Open for collaborators 
+
+
+📄 License
+
+This project is open source and available under the MIT License.
+
+❤️ Support
+
+If you like this project, give it a ⭐ on GitHub, and feel free to share your ideas to make it better!
+
+
+---
+
+If you want, I can also:
+
+- Create a **project description section for GitHub**
+- Generate a **landing page UI in React + Tailwind**
+- Add a **PocketBase backend template**
+- Create a **logo + banner** for BookSwap
+
+Just tell me what to generate next 🚀
