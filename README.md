@@ -71,16 +71,25 @@ src/assets → to add your profile photo
 Update resume.pdf in the root to your own CV
 
 Change social links in Footer component
+
 ---
+
 
 ### 🙋 About Me
+
 This portfolio was developed to build my personal brand as a Full Stack Developer passionate about building web applications using React, Node, MongoDB, etc.
+
 ---
 
+
 ### 📄 License
+
 This project is open source and free to use under the MIT License.
 ---
 
+
 ### 🌟 Show Your Support
+
 If you like this project, give it a ⭐ on GitHub, and feel free to share your ideas to make it even better!
+
 ---
