@@ -85,6 +85,7 @@ This portfolio was developed to build my personal brand as a Full Stack Develope
 ### 📄 License
 
 This project is open source and free to use under the MIT License.
+
 ---
 
 
