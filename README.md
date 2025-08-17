@@ -41,7 +41,7 @@ A sleek and responsive personal portfolio website built using **React**, **Vite*
 ### Local Setup
 
 ```bash
-git clone https://github.com/your-username/portfolio.git
+git clone [https://github.com/your-username/portfolio.git](https://github.com/user-supriya/Supriya.git)
 cd portfolio
 npm install
 npm run dev
